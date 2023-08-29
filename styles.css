@@ -11,8 +11,10 @@ a{
 li{
 	list-style-type: none
 }
-.player_one,{
+.player_one{
 	background-color: rgb(255, 255, 255);
+	padding-left:12%;
+	padding-top:7%;
 }
 ul{
 	background-color: rgb(255, 255, 255);
