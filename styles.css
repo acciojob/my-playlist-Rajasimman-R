@@ -13,9 +13,21 @@ li{
 }
 .player_one{
 	background-color: rgb(255, 255, 255);
-	padding-left:12%;
+	padding-left:10%;
 	padding-top:7%;
+	border:1px solid black;
+	border-radius:0.2em;
 }
+.player_two{
+	background-color: rgb(255, 255, 255); 
+	padding:0%;
+	border-radius:0%;
+}
+audio{
+	width:90%;
+	
+}
+
 ul{
 	background-color: rgb(255, 255, 255);
 	border:1px solid black;
